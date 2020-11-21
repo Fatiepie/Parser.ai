@@ -5,4 +5,4 @@ Gary the AI, uses the NLTK library (Natural Language Tool Kit) for Python, that 
 
 Hope you enjoy the Demo!
 
-[![Parser.ai](http://img.https://youtu.be/vNWJYp5Qm64.jpg)](http://https://youtu.be/vNWJYp5Qm64 "Parser Demo")
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vNWJYp5Qm64)
