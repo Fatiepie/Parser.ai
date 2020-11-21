@@ -5,4 +5,4 @@ Gary the AI, uses the NLTK library (Natural Language Tool Kit) for Python, that 
 
 Hope you enjoy the Demo!
 
-[![Watch the video]](https://youtu.be/vNWJYp5Qm64)
+[[Watch the video]](https://youtu.be/vNWJYp5Qm64)
